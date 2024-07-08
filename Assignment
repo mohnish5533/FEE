@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Book Review</title>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1,h2 {
+            color: #333;
+        }
+        img {
+            max-width: 200px;
+            margin-right: 20px;
+            float: left;
+        }
+        .pros-cons {
+            clear: left;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+</style>
+</head>
+<body>
+<h1>To Kill a Mockingbird</h1>
+<h2>by Harper Lee</h2><img src="book-cover.jpg" alt="To Kill a Mockingbird book cover">
+
+<h2>Summary</h2>
+    <p>To Kill a Mockingbird is a novel by Harper Lee, published in 1960. It is set in the fictional town of Maycomb, Alabama, during the Great Depression. The story is told from the perspective of a young girl named Scout, whose father, Atticus Finch, is a lawyer defending a black man accused of a crime he did not commit.</p>
+
+<div class="pros-cons">
+        <h2>Pros and Cons</h2>
+        <ul>
+            <li>Excellent character development</li>
+            <li>Thought-provoking exploration of racism and social injustice</li>
+            <li>Slow-paced at times</li>
+            <li>Some outdated language and references</li>
+    </ul>
+    </div>
+
+<h2>Recommendation</h2>
+    <p>I highly recommend reading To Kill a Mockingbird. It is a timeless classic that provides valuable insights into the human condition and the importance of standing up for what is right, even in the face of adversity.</p>
+</body>
+</html>

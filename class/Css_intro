@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Intro</title>
+    <style>h2{
+        align-items: center;
+        color:blue;
+        border:2px solid red;
+        }</style>
+        <link rel="stylesheet" href="Css_intro.css">
+</head>
+<body>
+    <h1 style="color:brown">this is a heading</h1>
+    <p style="font-size: 20px;background-color:aqua">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea dolore vero maxime. Fugiat esse, quisquam iste pariatur, quasi repudiandae accusantium aperiam nam dignissimos animi illo magni excepturi nostrum dicta aliquid.</p>
+    <h2>this is heading 2</h2>
+    <h3>this is external</h3>
+</body>
+</html>
